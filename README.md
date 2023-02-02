@@ -3,7 +3,7 @@
 Short pieces of JavaScript that make life easier.
 
 
-<h2>How to add Bookmarklets: </h2>
+<b>How to add Bookmarklets: </b>
 
 # Chrome:
 
@@ -15,7 +15,7 @@ Short pieces of JavaScript that make life easier.
 6. Rename it to whatever you want.
 7. Click "Save".
 
-Microsoft:
+# Microsoft:
 
 I don't know.
 <b>If you do know email me the steps via outlook vidio-boy@outlook.com</b>
