@@ -3,7 +3,7 @@
 Short pieces of JavaScript that make life easier.
 
 
-<b>How to add Bookmarklets:<b>
+<b>How to add Bookmarklets: <b>
 
 # Chrome:
 
