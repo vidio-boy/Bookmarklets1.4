@@ -13,3 +13,7 @@ Chrome:
 6. Rename it to whatever you want.
 7. Click "Save".
 
+Microsoft:
+
+I don't know.
+<b>(If you do know email me the steps via outlook vidio-boy@outlook.com<b>
