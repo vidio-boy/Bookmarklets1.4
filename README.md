@@ -1,7 +1,7 @@
 # Bookmarklets
 
 
-How to add Bookmarklets:
+<br>How to add Bookmarklets:<br>
 
 # Chrome:
 
