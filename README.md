@@ -1,7 +1,9 @@
 # Bookmarklets
 
+Short pieces of JavaScript that make life easier.
 
-<br>How to add Bookmarklets:<br>
+
+<b>How to add Bookmarklets:<b>
 
 # Chrome:
 
