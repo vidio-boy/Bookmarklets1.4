@@ -3,7 +3,7 @@
 
 How to add Bookmarklets:
 
-Chrome:
+## Chrome:
 
 1. Copy the bookmarklet code.
 2. Open a new tab.
