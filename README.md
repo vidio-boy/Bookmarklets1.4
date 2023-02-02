@@ -4,6 +4,7 @@ Short pieces of JavaScript that make life easier.
 
 
 <h1><b>How to add Bookmarklets: </b></h1>
+<h1>How to add Bookmarklets: </h1>
 
 # Chrome:
 
