@@ -1,7 +1,7 @@
 # Bookmarklets
 
 
-# How to add Bookmarklets:
+How to add Bookmarklets:
 
 # Chrome:
 
@@ -16,4 +16,4 @@
 Microsoft:
 
 I don't know.
-<b>(If you do know email me the steps via outlook vidio-boy@outlook.com<b>
+<b>If you do know email me the steps via outlook vidio-boy@outlook.com<b>
