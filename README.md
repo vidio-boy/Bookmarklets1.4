@@ -19,4 +19,8 @@ Short pieces of JavaScript that make life easier.
 
 Use Chrome browser in Windows then follow the Chrome instructions.
 
-<footer>I did not code all of the Bookmarklets; I got some of them off of Sites that were not copyrighted.</footer>
+# About
+Soon when I have more time. . .
+
+
+<small> NOTE: I did not code all of the Bookmarklets; I got some of them off of Sites that were not copyrighted.</small>
