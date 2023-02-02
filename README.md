@@ -3,7 +3,7 @@
 Short pieces of JavaScript that make life easier.
 
 
-<b>How to add Bookmarklets: <b>
+<b>How to add Bookmarklets: </b>
 
 # Chrome:
 
@@ -18,4 +18,4 @@ Short pieces of JavaScript that make life easier.
 Microsoft:
 
 I don't know.
-<b>If you do know email me the steps via outlook vidio-boy@outlook.com<b>
+<b>If you do know email me the steps via outlook vidio-boy@outlook.com</b>
