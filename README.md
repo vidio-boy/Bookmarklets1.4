@@ -15,7 +15,19 @@ Short pieces of JavaScript that make life easier.
 6. Rename it to whatever you want.
 7. Click "Save".
 
-# Microsoft:
+# Windows:
 
-I don't know.
-<b>If you do know email me the steps via outlook vidio-boy@outlook.com</b>
+Use Chrome browser in Windows then follow the Chrome instructions.
+
+I did not code all of the Bookmarklets; I got some of them off of Game Sites on Google Sites
+
+<canvas id="myCanvas">
+Your browser does not support the canvas tag.
+</canvas>
+
+<script>
+var canvas = document.getElementById("myCanvas");
+var ctx = canvas.getContext("2d");
+ctx.fillStyle = "#FF0000";
+ctx.fillRect(0, 0, 80, 80);
+</script>
