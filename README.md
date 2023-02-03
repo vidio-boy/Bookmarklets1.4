@@ -1,26 +1,27 @@
-# Bookmarklets
+<html>
+  <head><h1>Bookmarklets</h1></head>
+  <p>Short pieces of JavaScript that make your computer more entertaining.</p>
 
-Short pieces of JavaScript that make life easier.
+<b>How to add Bookmarklets:</b>
 
-
-<b>How to add Bookmarklets: </b>
-
-# Chrome:
-
+  <h1>Chrome:</h1>
+<p>
 1. Copy the bookmarklet code.
 2. Open a new tab.
 3. Right click your bookmarks bar.
 4. Click "add page".
 5. Where it says URL, delete the text in that box and paste the code.
 6. Rename it to whatever you want.
-7. Click "Save".
+7. Click "Save".</p>
 
-# Windows:
+  <h1>Windows:</h1>
 
-Use Chrome browser in Windows then follow the Chrome instructions.
+<p>Use Chrome browser in Windows then follow the Chrome instructions.</p>
+
+  <h1>How to Use</h1>
+<p>Just click on the Bookmarklet on you bookmarks bar in a webpage and it should work</p>
 
 # About
-Soon when I have more time. . .
+<p>Bookmarklets are short pieces of Javascript that can do anything you program them to do. They're easy to code, Bookmark, and use. Some can make your webpage 3d, others can let you edit Google. Overall, they just make your computer more fun, and give you something to do. I hope they work and are entertaining, <b>@vidio-boy</b></p>
 
-
-<small> NOTE: I did not code all of the Bookmarklets; I got some of them off of Sites that were not copyrighted.</small>
+<p><footer><small> <b>NOTE:</b> I did not code all of the Bookmarklets; I got some of them off of Sites that were not copyrighted..</small><footer></p>
