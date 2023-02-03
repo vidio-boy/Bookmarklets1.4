@@ -5,14 +5,14 @@
 <b>How to add Bookmarklets:</b>
 
   <h1>Chrome:</h1>
-<p>
-1. Copy the bookmarklet code.
-2. Open a new tab.
-3. Right click your bookmarks bar.
-4. Click "add page".
-5. Where it says URL, delete the text in that box and paste the code.
-6. Rename it to whatever you want.
-7. Click "Save".</p>
+
+<p>1. Copy the bookmarklet code.</p>
+<p>2. Open a new tab.</p>
+<p>3. Right click your bookmarks bar.</p>
+<p>4. Click "add page".</p>
+<p>5. Where it says URL, delete the text in that box and paste the code.</p>
+<p>6. Rename it to whatever you want.</p>
+<p>7. Click "Save".</p>
 
   <h1>Windows:</h1>
 
