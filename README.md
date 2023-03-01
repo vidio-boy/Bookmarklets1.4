@@ -21,7 +21,8 @@
   <h1>How to Use</h1>
 <p>Just click on the Bookmarklet on you bookmarks bar in a webpage and it should work</p>
 
-# About
-<p>Bookmarklets are short pieces of Javascript that can do anything you program them to do. They're easy to code, Bookmark, and use. Some can make your webpage 3d, others can let you edit Google. Overall, they just make your computer more fun, and give you something to do. I hope they work and are entertaining, <b>@vidio-boy</b></p>
+ <h1>About</h1>
+<p>Bookmarklets are short pieces of Javascript that can do anything you program them to do. They're easy to code, Bookmark, and use. Some can make your webpage 3d, others can let you edit Google. Overall, they just make your computer more fun, and give you something to do. I hope they work and are entertaining, 
+<b>@vidio-boy</b></p>
 
-<p><footer><small> <b>NOTE:</b> I did not code all of the Bookmarklets; I got some of them off of Sites that were not copyrighted..</small><footer></p>
+<p><footer><small> <b>NOTE:</b> I did not code all of the Bookmarklets; I got some of them off of random sites.</small><footer></p>
