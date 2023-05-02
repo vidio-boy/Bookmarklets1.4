@@ -1,6 +1,6 @@
 <html>
   <head><h1>Bookmarklets</h1></head>
-  <p>Short pieces of JavaScript that make your computer more entertaining.</p>
+  <p>JavaScript snippits 1.3.</p>
 
 <b>How to add Bookmarklets:</b>
 
