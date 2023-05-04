@@ -1,6 +1,6 @@
 <html>
   <head><h1>Bookmarklets</h1></head>
-  <p>JavaScript snippits 1.3.</p>
+  <p>JavaScript snippits 1.4 (js update).</p>
 
 <b>How to add Bookmarklets:</b>
 
